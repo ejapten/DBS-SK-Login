@@ -5,4 +5,3 @@ Alur Fitur Login:
 3. Memvalidasi pengguna dengan deteksi wajah.
 4. Memasukkan nama ibu untuk validasi.
 5. Menampilkan halaman home.
-6. latihan fork
